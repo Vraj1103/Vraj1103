@@ -1,5 +1,15 @@
 [![](https://visitcount.itsvg.in/api?id=Vraj1103&icon=2&color=1)](https://visitcount.itsvg.in)
 
+### Hi there 👋, my name is Vraj
+#### I am a Web developer
+
+- 🔭 I’m currently working on my portfolio website. 
+- 🌱 I’m currently learning React. 
+- 👯 I’m looking to collaborate on Portfolio Website. 
+- 💬 Ask me about Frontend Web-development. 
+- 📫 How to reach me: svraj1103@gmail.com 
+- 😄 Pronouns: He/Him 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its.vraj113) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vrajshah113) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shahsonic) 
 
