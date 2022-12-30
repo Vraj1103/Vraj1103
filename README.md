@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning React. 
 - 👯 I’m looking to collaborate on Portfolio Website. 
 - 💬 Ask me about Frontend Web-development. 
-- 📫 How to reach me: svraj1103@gmail.com 
+- 📫 How to reach me: vraj.dev1103@gmail.com 
 - 😄 Pronouns: He/Him 
 
 ## 🌐 Socials:
