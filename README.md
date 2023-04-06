@@ -1,12 +1,12 @@
 [![](https://visitcount.itsvg.in/api?id=Vraj1103&icon=2&color=1)](https://visitcount.itsvg.in)
 
-### Hi there 👋, my name is Vraj!
+### Hi there 👋, my name is Vraj !
 #### I am a Web developer
 
-- 🔭 I’m currently working on my portfolio website. 
+- 🔭 I’m currently working on my React & Tailwind. 
 - 🌱 I’m currently learning React. 
-- 👯 I’m looking to collaborate on Portfolio Website. 
-- 💬 Ask me about Frontend Web-development. 
+- 👯 I’m looking to collaborate on Web-dev realated projects. 
+- 💬 Ask me about Full-Stack Web-development. 
 - 📫 How to reach me: vraj.dev1103@gmail.com 
 - 😄 Pronouns: He/Him 
 
