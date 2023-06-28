@@ -4,7 +4,7 @@
 #### I am a Web developer
 
 - 🔭 I’m currently working on React & Tailwind. 
-- 🌱 I’m currently learning React. 
+- 🌱 I’m currently learning Back-End. 
 - 👯 I’m looking to collaborate on Web-dev realated projects. 
 - 💬 Ask me about Full-Stack Web-development. 
 - 📫 How to reach me: vraj.dev1103@gmail.com 
