@@ -3,7 +3,7 @@
 ### Hey!! there👋, my name is Vraj !
 #### I am a Web developer
 
-- 🔭 I’m currently working on React & Tailwind. 
+- 🔭 I’m currently working on My Portfolio!!. 
 - 🌱 I’m currently learning Back-End. 
 - 👯 I’m looking to collaborate on Web-dev realated projects. 
 - 💬 Ask me about Full-Stack Web-development. 
