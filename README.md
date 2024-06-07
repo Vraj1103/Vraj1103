@@ -3,9 +3,9 @@
 ### Hey! there👋, my name is Vraj!
 #### I am a Web developer
 
-- 🔭 I’m currently working on My Portfolio!!
-- 🌱 I’m currently learning Back-End. 
-- 👯 I’m looking to collaborate on Web-dev realated projects. 
+- 🔭 I’m currently working on ML Project!!
+- 🌱 I’m currently learning Data Analytics. 
+- 👯 I’m looking to collaborate on ML realated projects. 
 - 💬 Ask me about Full-Stack Web-development. 
 - 📫 How to reach me: vraj.dev1103@gmail.com 
 - 😄 Pronouns: He/Him 
